@@ -100,7 +100,7 @@ Built a purpose-driven Shopify store with custom theme and checkout flows linkin
 
 ---
 
-### 🔄 Long-term Shopify Backend Development *(1,931 hrs)*
+### 🔄 Long-term Shopify Backend Development *
 **Ongoing multi-system integration & maintenance**
 
 Extended engagement building and maintaining backend integrations for a growing Shopify merchant — including API connections, order sync, inventory automation, and performance fixes across 5+ years.
@@ -109,7 +109,7 @@ Extended engagement building and maintaining backend integrations for a growing 
 
 ---
 
-### 📦 Shopify Theme Overhaul & Customization *(449 hrs)*
+### 📦 Shopify Theme Overhaul & Customization **
 **Full redesign and long-term customization**
 
 Comprehensive theme redesign and ongoing bug fixes for an established e-commerce brand. Managed performance, UX improvements, and feature additions through a long-term contract.
@@ -118,7 +118,7 @@ Comprehensive theme redesign and ongoing bug fixes for an established e-commerce
 
 ---
 
-### 🏗️ Platform & Database Build with UI/UX & API Integration *(82 hrs)*
+### 🏗️ Platform & Database Build with UI/UX & API Integration **
 **Full-stack platform from scratch**
 
 End-to-end development of a custom web platform including frontend UI, Django backend, database architecture, and third-party API integrations.
@@ -172,16 +172,6 @@ Architected and built a WordPress multisite installation with a custom CRM modul
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=whizsonika&bg_color=ffffff&color=14a800&line=14a800&point=096d1f&hide_border=true)
 
 </div>
-
----
-
-## 📚 Education & Career
-
-🎓 **Master of Computer Applications (MCA)** — Computer Science · JMIT · 2002–2005
-
-💼 **Shopify / WordPress Developer** — Syntatics · *Oct 2009 – Jan 2014*
-
-💼 **Developer / Lead** — Inox · *Jan 2006 – Oct 2009*
 > First Shopify app built here; developed first WordPress plugin during this period.
 
 ---
