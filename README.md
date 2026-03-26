@@ -100,8 +100,7 @@ Built a purpose-driven Shopify store with custom theme and checkout flows linkin
 
 ---
 
-### 🔄 Long-term Shopify Backend Development *
-**Ongoing multi-system integration & maintenance**
+### 🔄 Long-term Shopify Backend Development 
 
 Extended engagement building and maintaining backend integrations for a growing Shopify merchant — including API connections, order sync, inventory automation, and performance fixes across 5+ years.
 
@@ -109,8 +108,7 @@ Extended engagement building and maintaining backend integrations for a growing 
 
 ---
 
-### 📦 Shopify Theme Overhaul & Customization **
-**Full redesign and long-term customization**
+### 📦 Shopify Theme Overhaul & Customization 
 
 Comprehensive theme redesign and ongoing bug fixes for an established e-commerce brand. Managed performance, UX improvements, and feature additions through a long-term contract.
 
@@ -118,8 +116,7 @@ Comprehensive theme redesign and ongoing bug fixes for an established e-commerce
 
 ---
 
-### 🏗️ Platform & Database Build with UI/UX & API Integration **
-**Full-stack platform from scratch**
+### 🏗️ Platform & Database Build with UI/UX & API Integration 
 
 End-to-end development of a custom web platform including frontend UI, Django backend, database architecture, and third-party API integrations.
 
@@ -128,7 +125,6 @@ End-to-end development of a custom web platform including frontend UI, Django ba
 ---
 
 ### 🛒 Shopify + WooCommerce App Development
-**Custom app bridging two eCommerce platforms**
 
 Built a custom application to synchronise products, orders, and inventory between a Shopify store and a WooCommerce site — enabling unified commerce operations.
 
@@ -137,7 +133,6 @@ Built a custom application to synchronise products, orders, and inventory betwee
 ---
 
 ### 📚 LearnDash + H5P + HeyGen Course Build
-**Interactive e-learning course production**
 
 Delivered a complete interactive online course using LearnDash LMS, H5P for interactive content elements, and HeyGen for AI-generated video content.
 
@@ -146,20 +141,11 @@ Delivered a complete interactive online course using LearnDash LMS, H5P for inte
 ---
 
 ### 🌐 WordPress Multisite with CRM & MySQL Backend
-**Multi-site CMS with integrated CRM layer**
 
 Architected and built a WordPress multisite installation with a custom CRM module, MySQL database, and PHP backend — supporting multiple client brands under a single platform.
 
 `WordPress Multisite` `PHP` `MySQL` `CRM Integration`
 
----
-
-## 💬 Client Feedback
-
-> *"Sonika is a fantastic freelancer. Her knowledge of Shopify has helped us move things along quickly and saved us a lot of time."*
-> — Verified Upwork Client, 2025
-
----
 
 ## 📈 GitHub Activity
 
@@ -172,7 +158,6 @@ Architected and built a WordPress multisite installation with a custom CRM modul
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=whizsonika&bg_color=ffffff&color=14a800&line=14a800&point=096d1f&hide_border=true)
 
 </div>
-> First Shopify app built here; developed first WordPress plugin during this period.
 
 ---
 
