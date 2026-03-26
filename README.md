@@ -64,41 +64,6 @@ Most Shopify setups work fine at the start — but as a business scales, things 
 | 🛒 **WooCommerce & WordPress** | Plugins, multi-site setups, performance tuning |
 | 📊 **Backend Systems** | Database architecture, scalable server-side logic |
 
----
-
-## 💼 Work History Highlights
-
-**Ongoing Development** — *1,931 hrs · $23K+ earned*
-> Long-term Shopify development and maintenance engagement
-
-**Shopify Website Theme Edit & Customization** — *449 hrs · $5,392*
-> Full theme overhaul and ongoing bug fixes for a growing e-commerce brand
-
-**Platform & Database Development with UI/UX & API Integration** — *82 hrs*
-> End-to-end platform build including frontend, backend, and API layer
-
-**Shopify + Telegram Bot Integration** — *Portfolio project*
-> Real-time order/update notifications via custom Telegram bot connected to Shopify webhooks
-
----
-
-## 💬 Client Feedback
-
-> *"Sonika is a fantastic freelancer. Her knowledge of Shopify has helped us move things along quickly and saved us a lot of time."*
-> — Upwork Client, 2025
-
----
-
-## 📚 Education & Background
-
-🎓 **Master of Computer Applications (MCA)** — Computer Science · JMIT · 2002–2005
-
-💼 **Shopify / WordPress Developer** — Syntatics *(Oct 2009 – Jan 2014)*
-
-💼 **Developer / Lead** — Inox *(Jan 2006 – Oct 2009)*
-> Started Shopify app development here; built first WordPress plugin during this tenure.
-
----
 
 ## 📊 GitHub Stats
 
