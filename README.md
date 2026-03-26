@@ -166,7 +166,3 @@ Architected and built a WordPress multisite installation with a custom CRM modul
 Available for Shopify integration projects, long-term contracts, and backend consulting.
 
 ---
-
-<div align="center">
-<sub>⚡ 10+ years · 6,900+ hours · 56 projects · 96% Job Success · Open to new work</sub>
-</div>
