@@ -4,8 +4,6 @@
 
 ### Shopify Integration & App Developer · APIs · Backend Systems · Automations
 
-[![Upwork](https://img.shields.io/badge/Upwork-96%25_Job_Success-14a800?style=for-the-badge&logo=upwork&logoColor=white)][![GitHub](https://img.shields.io/badge/GitHub-whizsonika-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whizsonika)
-
 </div>
 
 ---
