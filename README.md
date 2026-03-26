@@ -12,16 +12,32 @@
 
 ## 👩‍💻 About Me
 
-I help Shopify businesses go beyond basic stores by building **custom apps, integrations, and backend systems** that automate operations and support growth.
+I help Shopify businesses go beyond basic stores by building custom apps, integrations, and backend systems that automate operations and support growth.
 
-Most Shopify setups work fine at the start — but as a business scales, things start breaking. That's where I come in. With **6,900+ hours** of hands-on Shopify work and **56 completed projects** on Upwork, I bring the depth of experience needed to solve complex problems, not just surface-level fixes.
+Most Shopify setups work fine in the beginning — but as the business grows, things start breaking:
+orders don’t sync properly, manual work increases, and multiple systems stop working together.
+That’s where I come in.
 
-- 🏆 **96% Job Success Score** on Upwork — $90K+ earned
-- 🕐 **6,916 hours** of tracked freelance work
-- 📅 Available **30+ hours/week**
-- 🤝 Avg. response time: **4–8 hours**
+With 10+ years of experience, I specialize in building the backend systems around Shopify — connecting it with CRMs, ERPs, payment systems, and custom platforms.
 
----
+What I Can Help You With
+• Custom Shopify app development (private & public apps)
+• Shopify API integrations (REST, webhooks, third-party services)
+• Shopify ↔ CRM / ERP / external system integrations
+• Subscription & billing system integration (Stripe + Shopify)
+• Automation of order, inventory, and workflow processes
+• Fixing broken integrations and unstable backend systems
+
+Experience Highlights
+• Built integrations between Shopify and external systems for real-time order and inventory sync
+• Developed backend systems handling payments, APIs, and multi-system workflows
+• Implemented automation to reduce manual operations across platforms
+• Worked on affiliate tracking and commission systems connected with eCommerce flows
+
+How I Work
+I focus on building reliable, scalable systems — not quick fixes. I think through edge cases, ensure data consistency, and make sure your systems continue to work as your business grows.
+If your Shopify store depends on multiple tools working together, I can help you connect, automate, and scale it properly.
+
 
 ## 🛠️ Tech Stack & Skills
 
