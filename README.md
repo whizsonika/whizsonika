@@ -81,7 +81,6 @@ Most Shopify setups work fine at the start — but as a business scales, things 
 
 I'm available for freelance projects, long-term contracts, and consulting.
 
-[![Upwork](https://img.shields.io/badge/Hire_me_on_Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01827a75d665ed6c97)
 
 ---
 
